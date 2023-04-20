@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+  <a href="index.html"><img src="e9f9c93e18ae9e136de3dac2bfa404fc.png" alt="HTML tutorial" style="width:90px;height:90px;"></a>
+  <link rel="stylesheet" href="style.css">
+  <head>
+<title> Dashboard </title>
+    <h1> Peaky Blinders | Episode 1</h1>
+  </head>
+  <video width="100%" height="100%" controls>
+    <source src="https://viload.org/watch?v=gAAAAABkQSCMDlUNtlCVTUX87W753L2QN4Oe9r9SiApzLke6M-ZmXhMpsOGZf5jrlqwVB1qKfTLQfaot-eynCkhelo196ld7ndeqe-Efw0p8j7eT8qhawF-59w8hy5RSROKUBjX5bsAAAbo-VshVJ76zyaFFCshz3Q==">
+    <source src="https://viload.org/watch?v=gAAAAABkQSCMDlUNtlCVTUX87W753L2QN4Oe9r9SiApzLke6M-ZmXhMpsOGZf5jrlqwVB1qKfTLQfaot-eynCkhelo196ld7ndeqe-Efw0p8j7eT8qhawF-59w8hy5RSROKUBjX5bsAAAbo-VshVJ76zyaFFCshz3Q==" type="video/ogg">
+
+  </video>
+
+  <body>
+
+  </body>
+</html>
